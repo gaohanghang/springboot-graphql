@@ -4,7 +4,7 @@
 >
 > [原文地址](https://link.juejin.im/?target=https%3A%2F%2Fitnext.io%2Fbeginners-guide-to-graphql-with-spring-boot-69d229e87b19)
 >
-> 译者: [ClamorousKun](https://juejin.im/user/5d074ff76fb9a07ef201210e)[![lv-1](https://b-gold-cdn.xitu.io/v3/static/img/lv-1.636691c.svg)](https://juejin.im/book/5c90640c5188252d7941f5bb/section/5c9065385188252da6320022)
+> 译者: [ClamorousKun](https://juejin.im/user/5d074ff76fb9a07ef201210e)
 >
 > 译文链接: https://juejin.im/post/5d61397bf265da03c92703a3
 
