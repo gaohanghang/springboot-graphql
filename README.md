@@ -323,7 +323,7 @@ public class VehicleService {
 
 ## 测试应用
 
-现在，我们可以来测试一下这个应用了。运行Spring Boot 应用程序。在浏览器中打开 http//localhost8080/graphiql 链接。我们将看到一个友好的图形见面，如下图所示。
+现在，我们可以来测试一下这个应用了。运行Spring Boot 应用程序。在浏览器中打开 http//localhost:8080/graphiql 链接。我们将看到一个友好的图形见面，如下图所示。
 
 
 
